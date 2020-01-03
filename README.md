@@ -1,5 +1,5 @@
-# 【TO WORLD】当前使用网址
+# 【TO WORLD】可用域名
 https://toworld.io
 
-# [TO WORLD] Current Website
+# [TO WORLD] Available domain
 https://toworld.io
